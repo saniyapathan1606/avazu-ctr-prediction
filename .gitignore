@@ -1,0 +1,12 @@
+# Datasets
+*.gz
+*.csv
+
+# Model artifacts
+*.pkl
+*.joblib
+
+# Python
+__pycache__/
+.venv/
+.ipynb_checkpoints/
