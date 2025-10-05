@@ -12,22 +12,6 @@ Predictive insights (Clicked / Not Clicked)
 
 Model stats, metrics, and feature-based predictions
 
-🧱 Repository Structure
-Avazu_click/
-│
-├── backend/
-│   ├── model_train.ipynb          # Jupyter notebook for model training
-│   ├── model.pkl                  # Saved trained model (XGBoost)
-│   ├── encoders.pkl               # Encoders for categorical features
-│   ├── requirements.txt           # Required backend dependencies
-│
-├── frontend/
-│   ├── streamlit_app.py           # Interactive Streamlit UI
-│
-├── train.gz                       # Original dataset (ignored in Git)
-├── README.md                      # Project documentation
-└── .gitignore                     # Ignored files (train.gz, __pycache__, etc.)
-
 ⚙️ VS Code: Setup & Workflow
 1️⃣ Clone Repository
 git clone https://github.com/<your-username>/Avazu_click.git
