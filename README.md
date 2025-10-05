@@ -130,18 +130,6 @@ __pycache__/
 # Ignore IDE settings
 .vscode/
 
-📸 Preview
-+----------------------------------------+
-| Avazu Ad Click Prediction              |
-+----------------------------------------+
-| [Select Campaign Type]                 |
-| [Select Device Type]                   |
-| [Select App Category]                  |
-| [Select Connection Type]               |
-| [Predict] [Clear]                      |
-+----------------------------------------+
-| Result: 🟢 Clicked (Probability: 0.82) |
-+----------------------------------------+
 
 🧠 Interview Key Points
 Topic	Explanation
